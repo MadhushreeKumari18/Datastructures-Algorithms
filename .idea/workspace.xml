@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82cd64ba-4f8b-40c3-abb1-ec74b4c96d36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/Absolute_Path_Variations/GetAbsolutePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/Absolute_Path_Variations/GetAbsolutePathII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/EqualStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/GameOfTwoStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/HistogramProblem(Largest_Rectangle).java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/MaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/MaximumDepthParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/NStacksFromArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/PrefixToPostfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/SetOfStacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/SimpleTextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/StackGetMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/StackHalfReverseAndClub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/StackReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/StackSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/TowerOfHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stacks/Problems/TwoStacksFrom1Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Implementation/QueueImplArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Implementation/QueueUsing2Stacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Implementation/QueueUsingList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
