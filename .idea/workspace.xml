@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82cd64ba-4f8b-40c3-abb1-ec74b4c96d36" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Queues/Implementation/QueueImplArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queues/Implementation/QueueUsing2Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Queues/Implementation/QueueUsingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Problems/AnimalShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Problems/QueueReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Problems/QueueSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Problems/ReverseQueueNElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Problems/Rotten_Orange_Problem/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queues/Problems/WordLadder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
